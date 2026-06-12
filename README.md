@@ -1,4 +1,4 @@
-## Blinkit Sales Analysis 
+## Blinkit Sales Analysis
 📌 Project Overview
 
 This project analyzes Blinkit’s sales performance using Python, Pandas, and Plotly.

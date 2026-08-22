@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis 📊
+# Blinkit Sales Analysis: Quick Ecommerce
 
 ##  Project Overview
 
@@ -69,7 +69,7 @@ The dataset contains information related to products and outlet-level sales perf
 
 ---
 
-## 🔍 Analysis Performed
+## Analysis Performed
 
 1. Outlet Location Performance
 

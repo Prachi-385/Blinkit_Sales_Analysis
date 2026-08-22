@@ -71,7 +71,7 @@ The dataset contains information related to products and outlet-level sales perf
 
 ## 🔍 Analysis Performed
 
-### 1. Outlet Location Performance
+1. Outlet Location Performance
 
 Compared sales across **Tier 1, Tier 2 and Tier 3 outlets** to understand:
 
@@ -80,7 +80,7 @@ Compared sales across **Tier 1, Tier 2 and Tier 3 outlets** to understand:
 - Revenue contribution by outlet tier
 - Differences in customer purchasing patterns
 
-### 2. Product Category Analysis
+ 2. Product Category Analysis
 
 Analyzed sales across **16+ product categories**, including:
 
@@ -97,7 +97,7 @@ Analyzed sales across **16+ product categories**, including:
 
 The analysis identifies the product categories contributing most and least to revenue.
 
-### 3. Fat Content Analysis
+ 3. Fat Content Analysis
 
 Compared sales between:
 
@@ -106,7 +106,7 @@ Compared sales between:
 
 The analysis also compares their performance across different outlet locations to understand product preference patterns.
 
-### 4. MRP vs Sales
+ 4. MRP vs Sales
 
 Analyzed the relationship between **Item MRP and Item Outlet Sales** to understand:
 
@@ -116,11 +116,11 @@ Analyzed the relationship between **Item MRP and Item Outlet Sales** to understa
 
 > **Note:** Correlation between price and sales should not be interpreted as causation without additional analysis.
 
-### 5. Product Visibility Analysis
+ 5. Product Visibility Analysis
 
 Examined **Item Visibility** in relation to sales to understand whether product visibility is associated with stronger sales performance.
 
-### 6. Outlet Size Analysis
+ 6. Outlet Size Analysis
 
 Compared sales across different outlet sizes to identify which store formats contribute more to overall revenue.
 

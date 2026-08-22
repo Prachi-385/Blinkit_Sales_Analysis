@@ -11,24 +11,7 @@ The analysis explores:
 4) Comparison between store tiers
 5) Sales trends & business insights
 
-This project is created as part of my Data Analyst learning journey, focusing on data cleaning, visualization, and storytelling.
-
-## Project Structure
-Blinkit_Sales_Analysis/
-│
-├── data/
-│   └── blinkit.csv
-│
-├── notebooks/
-│   └── analysis.ipynb
-│
-├── visuals/
-│   ├── sales_by_item_type.png
-│   ├── fat_content_vs_sales.png
-│   └── location_wise_sales.png
-│
-├── README.md
-└── requirements.txt
+This project is created as part of my Data Analyst learning journey, focusing on data cleaning, visualization and storytelling.
 
 ## Tech Stack
 
@@ -41,7 +24,7 @@ Blinkit_Sales_Analysis/
 
 ## Key Analysis Performed
 ## 1️⃣ Outlet Location Performance
-a_)Compared sales across Tier 1, Tier 2, and Tier 3 stores to identify:
+a)Compared sales across Tier 1, Tier 2, and Tier 3 stores to identify:
 b) Highest-performing tier
 c) Customer purchase behavior by location
 d) Which outlet tier contributes most to revenue
@@ -61,43 +44,30 @@ c) Overall contribution to sales
 d) Customer preference patterns
 
 ## 4️⃣ Item MRP vs Sales
-Checked how product price (MRP) influences:
-Sales volume
-Revenue
-Demand patterns
+- Checked how product price (MRP) influences:
+- Sales volume
+- Revenue
+- Demand patterns
 
 ## 5️⃣ Item Visibility Analysis
 
 Evaluated how product visibility affects sales performance.
 
 # Visuals Included
-Grouped Bar Chart: Sales by Outlet Location & Fat Content
-Bar Chart: Sales by Item Type
-Scatter Plot: Item MRP vs Sales
-Box Plot: Sales distribution by Outlet Tier
-Line Plot: Trend analysis (if time period available)
+- Grouped Bar Chart: Sales by Outlet Location & Fat Content
+- Bar Chart: Sales by Item Type
+- Scatter Plot: Item MRP vs Sales
+- Box Plot: Sales distribution by Outlet Tier
+- Line Plot: Trend analysis (if time period available)
 
 All major visuals are created using Plotly for an interactive experience.
 
 # Insights Generated
 
-Here are some examples (customizable based on your actual results):
+Here are some examples:
 a) Tier 3 outlets show the highest sales, followed by Tier 2 and Tier 1.
 b) Low Fat items outperform Regular items in all outlet tiers.
 c) Snack Foods and Household items drive maximum revenue.
 d) Higher MRP items tend to produce lower sales, showing price sensitivity.
 e) Items with low visibility generate significantly fewer sales.
 f) These insights help in understanding where to improve store performance, which product lines to promote, and how pricing impacts customer behavior.
-
-# What I Learned (My Key Takeaways)
-- How to clean and preprocess real-world retail data
-- GroupBy operations, Pivoting, MultiIndex handling
-- Creating interactive visualizations using Plotly
-- Extracting insights and building a compelling data story
-- Writing a professional README for GitHub
-
-## Author
-
-Prachi Priya
-Aspiring Data Analyst
-Python • SQL • Power BI • Plotly • Business Analytics

@@ -1,6 +1,6 @@
 # Blinkit Sales Analysis 📊
 
-## 📌 Project Overview
+##  Project Overview
 
 Quick-commerce businesses generate large volumes of sales data across products, outlets, locations, and customer segments. The challenge is turning this data into insights that can support better business decisions.
 
@@ -16,7 +16,7 @@ The objective is not just to visualize sales data, but to identify **business pa
 
 ---
 
-## 🎯 Business Questions
+##  Business Questions
 
 The analysis focuses on the following questions:
 
@@ -29,7 +29,7 @@ The analysis focuses on the following questions:
 
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 The dataset contains information related to products and outlet-level sales performance.
 
@@ -52,7 +52,7 @@ The dataset contains information related to products and outlet-level sales perf
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Programming & Analysis
 - **Python**
@@ -93,18 +93,13 @@ Analyzed sales across **16+ product categories**, including:
 - Baking Goods
 - Frozen Foods
 - Health & Hygiene
-- Others
-
-The analysis identifies the product categories contributing most and least to revenue.
 
  3. Fat Content Analysis
 
-Compared sales between:
+Compared sales between: The analysis also compares their performance across different outlet locations to understand product preference patterns.
 
 - Low Fat products
 - Regular products
-
-The analysis also compares their performance across different outlet locations to understand product preference patterns.
 
  4. MRP vs Sales
 
@@ -126,35 +121,35 @@ Compared sales across different outlet sizes to identify which store formats con
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 The analysis identified several important patterns:
 
-### 🏪 Outlet Location
+### Outlet Location
 
 **Tier 3 outlets generated the highest overall sales**, followed by Tier 2 and Tier 1 outlets.
 
 This suggests that outlet location can be an important factor when evaluating sales performance.
 
-### 🥗 Fat Content
+### Fat Content
 
 **Low Fat products generated higher overall sales than Regular products** in the analyzed dataset.
 
 However, this should be interpreted as a pattern in the dataset rather than proof that fat content directly causes higher sales.
 
-### 🛒 Product Categories
+### Product Categories
 
 **Fruits & Vegetables and Snack Foods** were among the strongest-performing product categories.
 
 These categories represent important contributors to overall sales and could be considered when evaluating product assortment.
 
-### 💰 Pricing
+### Pricing
 
 The analysis explored the relationship between **MRP and sales** and showed patterns suggesting that higher-priced products may experience lower sales in certain cases.
 
 This provides a starting point for further investigation into pricing and customer demand.
 
-### 👁️ Product Visibility
+### Product Visibility
 
 Product visibility was analyzed against sales to identify whether products with different visibility levels show different sales performance.
 
@@ -162,7 +157,7 @@ This can help businesses investigate potential opportunities around **product pl
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 The project includes interactive and static visualizations such as:
 

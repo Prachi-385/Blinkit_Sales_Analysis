@@ -23,25 +23,22 @@ This project is created as part of my Data Analyst learning journey, focusing on
 - Jupyter Notebook – Analysis workflow
 
 ## Key Analysis Performed
-## 1️⃣ Outlet Location Performance
-a)Compared sales across Tier 1, Tier 2, and Tier 3 stores to identify:
-b) Highest-performing tier
-c) Customer purchase behavior by location
-d) Which outlet tier contributes most to revenue
+# 1️⃣ Outlet Location Performance: Compared sales across Tier 1, Tier 2 and Tier 3 stores to identify:
+-  Highest-performing tier
+-   Customer purchase behavior by location
+-   which outlet tier contributes most to revenue
 
-## 2️⃣ Item Type Sales Analysis
-a) Analyzed sales across 16+ product categories:
-b) Fruits & Vegetables
-c) Snack Foods
-d) Household Goods
-e) Dairy, Meat, Soft Drinks etc.
-f) Visualized which item type generates the highest and lowest revenue.
+# 2️⃣ Item Type Sales Analysis:  Analyzed sales across 16+ product categories:
+- Fruits & Vegetables
+-  Snack Foods
+-   Household Goods
+-   Dairy, Meat, Soft Drinks etc.
+-   Visualized which item type generates the highest and lowest revenue.
 
-## 3️⃣ Impact of Item Fat Content
-a) Studied how Low Fat and Regular items perform in different locations:
-b) Comparison within each tier
-c) Overall contribution to sales
-d) Customer preference patterns
+# 3️⃣ Impact of Item Fat Content: Studied how Low Fat and Regular items perform in different locations:
+- Comparison within each tier
+- Overall contribution to sales
+- Customer preference patterns
 
 ## 4️⃣ Item MRP vs Sales
 - Checked how product price (MRP) influences:
